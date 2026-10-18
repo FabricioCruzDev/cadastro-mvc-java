@@ -41,5 +41,5 @@ Projeto pessoal de treino desenvolvido com o objetivo de praticar a estruturaç�
 
 ## 🚀 Próximos Passos
 
-- [ ] Implementação das classes da camada **Model**.
-- [ ] Criação do padrão **DAO (Data Access Object)** para persistência e manipulação dos dados no banco.
+- [x] Implementação das classes da camada **Model**.
+- [x] Criação do padrão **DAO (Data Access Object)** para persistência e manipulação dos dados no banco.
